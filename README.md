@@ -31,13 +31,13 @@ The dashboard provides valuable insights into sales performance, supplier effici
 ## 🖼️ Dashboard Preview
 
 ### 🧩 Supply Chain Performance Overview
-![Supply Chain Dashboard](Dashboard1.jpng)
+![Supply Chain Dashboard](Dashboard1.jpeg)
 
 ### 📊 Cost, Quality & Supplier Analysis
-![Supplier Dashboard](Dashboard2.jpng)
+![Supplier Dashboard](Dashboard2.jpeg)
 
 ### 🤖 Product Price Prediction Website
-![Prediction Website](Website.jpng)
+![Prediction Website](Website.jpeg)
 
 ---
 
